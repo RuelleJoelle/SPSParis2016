@@ -1,0 +1,4 @@
+http://powershell.office.com/get-started
+
+https://www.powershellgallery.com/GettingStarted?section=Get%20Started
+
